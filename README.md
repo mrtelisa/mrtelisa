@@ -1,5 +1,5 @@
 ## Let me introduce👋
-I'm Elisa Martinenghi and I?m attending the Master's degree in Robotics Engineering at University of Genoa!
+I'm Elisa Martinenghi and I'm attending the Master's degree in Robotics Engineering at University of Genoa!
 
 - 👀 I'm interest in biomedical robotics, human-robot interaction, cooperative robotics, manipulation, and coding.
 - 🔭 I’m currently working on my Master thesis. I am implementing a framework that allows the user to control the mobile base of the Reachy 2 robot (from @pollen-robotics) with a visual Body Machine Interface that exploits hands movement. The same interface is then used to select an object, that the robot automatically grasps.
