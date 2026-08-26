@@ -9,7 +9,7 @@ I'm Elisa Martinenghi and I?m attending the Master's degree in Robotics Engineer
 - ⚡ Development tools: Protégé, Creo Parametric, MPLab, Visual Studio, Docker, Gazebo, Simulink, RViz
 - 🧠 Perception & ML: OpenCV, YOLO, MediaPipe, deep learning
 
-- 🎯 (Hopefully) graduating in October 2026 — open to robotics engineering / R&D opportunities in Europe.
+- 🎯 Graduating in October 2026 (🤞) — open to robotics engineering / R&D opportunities in Europe.
 - 📫 How to reach me: linkedin.com/in/elisa-martinenghi-6765601b6/
 
   ## 🏆 Here you can find the works I'm most proud of:
