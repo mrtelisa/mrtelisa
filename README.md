@@ -10,7 +10,7 @@ I'm Elisa Martinenghi and I'm attending the Master's degree in Robotics Engineer
 - 🧠 Perception & ML: OpenCV, YOLO, MediaPipe, deep learning
 
 - 🎯 Graduating in October 2026 (🤞) — open to robotics engineering / R&D opportunities in Europe.
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/elisa-martinenghi-6765601b6/)
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/elisa-martinenghi-6765601b6/) or at my personal email eli.martinenghi@gmail.com
 
   ## 🏆 Here you can find the works I'm most proud of:
 - 🤖 **[Master thesis — BoMI control of Reachy 2](https://github.com/mrtelisa/reachy_bomi)** — visual Body–Machine Interface (MediaPipe + YOLO) for hand-guided base control and autonomous grasping on a real humanoid (simulation + application in real life).
